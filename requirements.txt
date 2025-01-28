@@ -1,0 +1,5 @@
+streamlit==1.26.0
+moviepy==1.0.3
+whisper
+transformers==4.21.1
+torch>=1.7.0
