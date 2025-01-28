@@ -1,6 +1,6 @@
 # OBS Recording Transcriber
 
-Process OBS recordings with AI-based transcription and summarization.
+Process OBS recordings or any video/audio files with AI-based transcription and summarization locally on your machine.
 
 
 ## Features
