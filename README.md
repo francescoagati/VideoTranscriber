@@ -10,8 +10,8 @@ Process OBS recordings or any video/audio files with AI-based transcription and 
 
 ## Installation
 1. Clone the repo.
-git clone https://github.com/yourusername/OBS_Recording_Transcriber.git
-cd OBS_Recording_Transcriber
+git clone [https://github.com/DataAnts-AI/VideoTranscriber.git
+cd VideoTranscriber
 2. Install dependencies:
  pip install -r requirements.txt
 
