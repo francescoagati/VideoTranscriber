@@ -1,5 +1,6 @@
 streamlit==1.26.0
 moviepy==1.0.3
-whisper
+git+https://github.com/openai/whisper.git@v20231117
 transformers==4.21.1
 torch>=1.7.0
+pillow<10.0.0
