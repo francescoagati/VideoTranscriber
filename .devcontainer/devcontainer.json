@@ -28,10 +28,11 @@
             ]
         }
     },
-    "forwardPorts": [8501],
+  
     "postCreateCommand": "",
     "features": {
         "git": "latest"
     },
     "remoteUser": "vscode"
+
 }
